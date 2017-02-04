@@ -1,2 +1,2 @@
 # webpack-angular2
-webpack + angular2 initial app
+webpack2 + angular2 initial app
