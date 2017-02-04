@@ -8,5 +8,3 @@ import '@angular/router';
 
 // RxJS
 import 'rxjs';
-
-import 'lodash';
